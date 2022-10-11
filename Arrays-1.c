@@ -6,6 +6,9 @@ int main() {
     {
         number[i] = i+1;
         printf("%i \n",number[i]);
+
+        number[i] = i+3;
+        printf("%i" , number[i]);
     }
     
 }
