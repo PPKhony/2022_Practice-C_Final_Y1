@@ -9,6 +9,7 @@ int main() {
 
         number[i] = i+3;
         printf("%i" , number[i]);
+        //ทดสอบการ pull
     }
     
 }
