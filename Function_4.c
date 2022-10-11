@@ -10,5 +10,6 @@ int main() {
     int i;
     for(i=1;i<=3;i++){
         Square(i,i+3);
+        //ทดสอบ github
     }   
 }
